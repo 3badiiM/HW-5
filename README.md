@@ -2,10 +2,6 @@
 
 
  https://koala-api.onrender.com
-## Notes: 
-* use **Supabase**
-* use best practices
-
 ## Endpoints
 
 ### `/create-account` => POST
