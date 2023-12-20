@@ -1,8 +1,7 @@
 # HW-5
 
 
-This assignment focuses on building a backend application using Dart. The application provides various endpoints to handle user account management and user profiles.
-
+ https://koala-api.onrender.com
 ## Notes: 
 * use **Supabase**
 * use best practices
